@@ -1,0 +1,5 @@
+{
+  "name": "Gestión de Pedidos e Incidencias",
+  "description": "Una aplicación completa para gestionar pedidos, generar resúmenes y albaranes, y gestionar incidencias con un tablero Kanban y calendario.",
+  "requestFramePermissions": []
+}
